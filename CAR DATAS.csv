@@ -1,0 +1,1001 @@
+Date,Brand,Variant,Price,Gender,Fuel Type,Transmission Type,Mileage,NCAP RATING
+10-04-2024,BMW,7 Series,4272301,Female,Petrol,Automatic,18,4.5
+18-06-2021,Benz,Sprinter 3500,3848100,Male,Petrol,Manual,15,4.5
+19-10-2020,Porsche,Boxster,3838101,Male,Diesel,Automatic,8,4.5
+13-07-2021,Ford,Fiesta,4064732,Male,Hybrid,DCT,18,4
+16-09-2023,Lexus,ES,1675724,Female,Electric,DCT,15,4
+25-05-2024,Volkswagen,Passat,2605500,Female,CNC,DCT,16,4
+23-06-2024,Mercury,Grand Marquis,1294038,Male,Petrol,Automatic,21,4
+06-04-2024,Subaru,Leone,4020777,Male,Petrol,Manual,8,4.5
+10-01-2025,Lincoln,Mark VII,1654224,Male,Hybrid,CVT,16,4
+30-08-2021,Aptera,Typ-1,2348109,Female,Hybrid,Manual,14,4
+28-05-2022,Buick,Park Avenue,4155773,Female,Hybrid,Manual,14,4
+02-03-2023,Aston Martin,Rapide,1617237,Male,Electric,CVT,22,4.5
+15-08-2024,Oldsmobile,Silhouette,1409553,Male,Electric,Manual,20,4
+20-01-2022,Ford,Explorer Sport,2719069,Male,Petrol,Manual,19,4
+05-05-2022,Benz,S-Class,1628213,Female,Electric,CVT,11,4.5
+19-02-2022,GMC,Safari,4142948,Male,CNC,DCT,11,4
+22-12-2020,Benz,SL-Class,330637,Female,Electric,Manual,19,4.5
+11-10-2023,Suzuki,Grand Vitara,3064536,Male,Electric,Manual,12,4
+01-09-2024,Acura,TSX,4259120,Male,Hybrid,Automatic,19,4
+30-06-2020,Subaru,Legacy,448478,Female,Hybrid,Manual,9,4.5
+31-12-2021,Kia,Optima,4926846,Female,Hybrid,DCT,10,4
+28-10-2023,Mazda,B-Series,862568,Female,Diesel,CVT,22,4
+17-10-2023,Acura,NSX,4252250,Female,Petrol,Manual,22,4
+21-02-2023,Ford,Escape,1732531,Female,CNC,CVT,20,4
+25-01-2021,Nissan,Frontier,1902355,Female,CNC,CVT,8,4.5
+09-06-2024,Honda,Accord,2503860,Female,Diesel,Manual,19,4
+27-02-2022,Lincoln,Town Car,743230,Male,CNC,Manual,11,4
+04-08-2023,GMC,Sonoma,2586015,Male,Diesel,Automatic,8,4
+12-05-2024,Lincoln,Mark LT,1283998,Male,CNC,Manual,14,4
+31-12-2022,Subaru,Justy,2651990,Female,CNC,CVT,20,4.5
+30-04-2020,Pontiac,Sunfire,4783622,Female,Diesel,DCT,9,4
+30-10-2024,Chrysler,Town & Country,1303545,Male,Hybrid,Manual,12,4
+28-09-2023,Pontiac,Sunbird,3311607,Male,Electric,Manual,12,4
+16-09-2023,Toyota,RAV4,3323764,Female,CNC,Automatic,13,4
+09-01-2023,Aptera,2e,3504556,Male,Electric,Manual,8,4
+15-11-2022,Volkswagen,GTI,1306510,Female,Electric,CVT,13,4
+10-07-2022,Dodge,Avenger,448842,Female,Electric,DCT,17,4
+09-03-2021,Chevrolet,TrailBlazer,996710,Female,Diesel,CVT,10,4.5
+09-10-2020,Chevrolet,Blazer,1997302,Male,Electric,CVT,8,4.5
+29-01-2022,Hyundai,Elantra,1857918,Male,Electric,DCT,21,4
+01-11-2022,Chevrolet,Tahoe,4423655,Male,Diesel,Manual,12,4.5
+19-08-2020,Cadillac,XLR-V,1030294,Male,Petrol,Automatic,11,4
+14-11-2022,Isuzu,Ascender,4110737,Female,CNC,CVT,19,4
+31-05-2023,Chevrolet,Citation,3142536,Male,Electric,Manual,14,4.5
+11-05-2023,Chevrolet,2500,2918891,Female,CNC,CVT,15,4.5
+01-12-2024,Kia,Spectra5,4204325,Female,Hybrid,DCT,22,4
+23-07-2021,Ford,Taurus X,716361,Male,CNC,Manual,13,4
+25-03-2021,Lincoln,LS,3176917,Male,CNC,Automatic,9,4
+19-04-2021,Porsche,944,2321893,Female,Petrol,Manual,18,4.5
+30-06-2022,Chevrolet,Silverado,3994821,Female,CNC,Manual,12,4.5
+13-05-2022,Mitsubishi,Galant,3346456,Male,Hybrid,DCT,17,4.5
+15-03-2021,Land Rover,Defender,2302073,Male,Petrol,Manual,9,4.5
+28-01-2022,Kia,Sorento,2569001,Male,Hybrid,Automatic,19,4
+25-08-2021,Dodge,Stratus,568522,Male,Hybrid,CVT,20,4
+02-12-2023,Ford,F350,4079427,Female,Petrol,Automatic,12,4
+03-12-2020,Benz,C-Class,2636763,Female,CNC,Automatic,20,4.5
+15-01-2021,Honda,Crosstour,1221398,Female,Diesel,CVT,13,4
+29-08-2024,Ford,Taurus,3696572,Male,Diesel,Manual,18,4
+30-05-2023,Dodge,Viper,3086363,Female,Diesel,Automatic,11,4
+30-06-2024,Mercury,Cougar,4790974,Male,Electric,Automatic,11,4
+03-02-2024,Mitsubishi,Galant,1833035,Male,Electric,DCT,19,4.5
+13-01-2024,Chevrolet,Malibu Maxx,4201426,Male,Petrol,DCT,15,4.5
+06-06-2022,Volkswagen,Tiguan,3338809,Female,CNC,Automatic,19,4
+13-04-2022,Nissan,Frontier,2242978,Female,CNC,CVT,15,4.5
+30-03-2022,Daewoo,Lanos,3276540,Female,CNC,CVT,8,4
+08-07-2020,Mazda,Millenia,3668689,Male,Electric,Automatic,13,4
+24-04-2020,Acura,TL,1273976,Male,Petrol,DCT,15,4
+14-02-2024,Ford,E150,4518643,Male,Hybrid,CVT,13,4
+20-03-2020,Acura,ZDX,3226389,Female,Electric,DCT,20,4
+15-02-2020,Lamborghini,Diablo,4652864,Male,Hybrid,CVT,19,4.5
+21-10-2021,Honda,Accord,1862532,Male,CNC,Automatic,22,4
+13-10-2022,Subaru,Forester,263702,Female,Petrol,Manual,16,4.5
+28-12-2021,Toyota,Previa,2467099,Male,Petrol,DCT,15,4
+02-07-2020,Volvo,S40,3282944,Female,Petrol,Manual,14,4.5
+26-10-2024,Chevrolet,2500,460992,Female,Electric,Manual,19,4.5
+05-04-2023,Mitsubishi,Excel,1042376,Female,CNC,CVT,14,4.5
+27-08-2021,Volkswagen,Passat,740926,Female,Petrol,Manual,8,4
+16-09-2020,Volvo,C70,3262255,Female,Electric,DCT,11,4.5
+18-12-2020,Audi,S6,4423168,Female,Petrol,CVT,13,4.5
+16-07-2021,Mitsubishi,Outlander Sport,720826,Male,Hybrid,CVT,21,4.5
+09-11-2024,Chevrolet,Express,1336875,Male,CNC,DCT,16,4.5
+17-06-2020,Audi,100,3898904,Female,Hybrid,Automatic,13,4.5
+10-05-2020,Land Rover,Discovery,1323864,Female,Electric,CVT,19,4.5
+22-05-2024,Dodge,Dakota,4149646,Male,Diesel,Automatic,21,4
+16-12-2023,Audi,S4,780734,Female,Diesel,Manual,18,4.5
+02-11-2022,GMC,Yukon XL 2500,2442273,Female,Diesel,CVT,14,4
+16-06-2024,Toyota,RAV4,404663,Male,Petrol,Manual,21,4
+30-06-2021,Volvo,960,4265591,Male,Hybrid,Automatic,8,4.5
+02-08-2020,GMC,Acadia,2540200,Female,Electric,Manual,20,4
+04-01-2023,Aston Martin,DB9,2365480,Male,CNC,DCT,19,4.5
+20-02-2021,Dodge,Ram 1500,649693,Female,Hybrid,Automatic,15,4
+11-12-2020,Chevrolet,Silverado 1500,499342,Male,CNC,Manual,19,4.5
+20-03-2022,Nissan,NV1500,2364955,Female,Hybrid,CVT,22,4.5
+20-05-2021,Nissan,Xterra,2217416,Female,Hybrid,DCT,21,4.5
+28-04-2020,Mitsubishi,Mirage,4146033,Female,Electric,Automatic,20,4.5
+24-07-2020,BMW,X3,3992083,Male,Diesel,Automatic,21,4.5
+06-11-2022,BMW,X3,4737637,Female,Hybrid,Manual,16,4.5
+20-04-2021,Chevrolet,Tahoe,4719907,Female,Hybrid,CVT,8,4.5
+06-01-2022,Benz,C-Class,875794,Male,Hybrid,CVT,17,4.5
+12-01-2022,Land Rover,Range Rover,302183,Female,Diesel,DCT,16,4.5
+29-04-2024,Chevrolet,Impala,4915041,Male,Diesel,CVT,14,4.5
+18-09-2021,Ford,F250,309101,Male,Petrol,DCT,22,4
+25-04-2021,Chevrolet,S10,1033112,Female,CNC,Manual,15,4.5
+30-09-2022,Chevrolet,3500,1276647,Female,Hybrid,Manual,18,4.5
+07-08-2021,Peugeot,207,4801481,Male,Electric,DCT,18,4
+06-12-2020,Volkswagen,Touareg,2834442,Male,Electric,Manual,9,4
+03-01-2023,Chevrolet,Silverado 1500,1318825,Female,Petrol,Automatic,14,4.5
+09-01-2022,Chevrolet,Traverse,3415526,Female,Diesel,CVT,17,4.5
+24-02-2024,Ford,Ranger,4619543,Female,Hybrid,CVT,19,4
+22-01-2020,Benz,300SL,1844975,Male,Hybrid,Manual,21,4.5
+01-08-2022,Lincoln,Continental,3516917,Male,Petrol,DCT,19,4
+05-12-2020,Honda,Civic,4025313,Male,Diesel,CVT,9,4
+18-03-2021,Benz,CLK-Class,2657054,Female,Petrol,CVT,17,4.5
+11-12-2022,Bentley,Continental GT,2563854,Female,Diesel,Manual,19,4.5
+30-01-2021,Lexus,ES,4235962,Female,Petrol,CVT,17,4
+08-12-2021,Jaguar,XJ,1140629,Female,CNC,Manual,14,4.5
+28-01-2020,Volvo,S60,4200361,Female,Electric,Automatic,17,4.5
+31-01-2020,Toyota,Avalon,4312910,Male,CNC,Manual,13,4
+06-08-2023,Dodge,Caravan,2236845,Male,Petrol,CVT,12,4
+27-10-2020,GMC,Yukon XL 1500,540960,Female,CNC,CVT,10,4
+20-03-2021,Acura,RSX,3489178,Male,CNC,Manual,20,4
+01-12-2021,Mitsubishi,3000GT,1947413,Female,Hybrid,DCT,14,4.5
+07-04-2020,Acura,MDX,4824704,Male,Hybrid,Manual,14,4
+29-06-2024,Porsche,944,3188081,Female,Diesel,DCT,9,4.5
+24-05-2020,Subaru,Impreza,4389437,Female,Electric,CVT,10,4.5
+14-12-2021,GMC,Savana 1500,3147852,Male,Petrol,Automatic,12,4
+19-08-2023,Audi,A6,4029156,Female,CNC,Automatic,9,4.5
+26-08-2022,Mazda,MPV,3312470,Female,Hybrid,CVT,21,4
+26-07-2021,Audi,A4,2401145,Male,CNC,Manual,13,4.5
+24-04-2020,Ford,Taurus,955185,Male,Electric,DCT,13,4
+28-03-2023,BMW,M3,1996152,Male,Hybrid,CVT,19,4.5
+18-01-2024,Jeep,Patriot,4732639,Male,Petrol,CVT,15,4.5
+09-10-2021,Chrysler,LHS,1688525,Male,Electric,DCT,10,4
+25-08-2022,Volkswagen,New Beetle,4690040,Male,Petrol,DCT,16,4
+06-06-2023,Buick,LeSabre,4686444,Female,Petrol,DCT,18,4
+31-08-2022,Lincoln,Mark VIII,1038638,Male,Hybrid,Automatic,8,4
+10-09-2024,Pontiac,Bonneville,843022,Male,Hybrid,DCT,12,4
+23-02-2024,Lexus,ES,2500937,Male,Diesel,Manual,10,4
+28-04-2023,Nissan,Sentra,2603314,Female,Diesel,Automatic,22,4.5
+10-07-2021,Benz,CL-Class,2688486,Male,Electric,DCT,14,4.5
+28-11-2023,Volvo,XC90,4038340,Female,Electric,DCT,8,4.5
+01-02-2024,Honda,Insight,2323257,Female,CNC,DCT,17,4
+07-09-2023,BMW,3 Series,1541322,Male,Petrol,Manual,18,4.5
+28-09-2024,Ford,Taurus,1570511,Male,Diesel,Automatic,22,4
+09-03-2024,Lexus,RX,793267,Female,Electric,DCT,17,4
+14-11-2023,Ford,Mustang,718615,Male,CNC,Automatic,8,4
+13-09-2023,Ford,E250,4528907,Female,Electric,CVT,12,4
+16-07-2021,Nissan,Maxima,612604,Male,CNC,CVT,18,4.5
+21-03-2024,Ford,Mustang,4336694,Male,Petrol,DCT,15,4
+12-05-2022,Pontiac,Safari,2081197,Female,Electric,Manual,12,4
+07-04-2021,Lincoln,Navigator,3323582,Male,Petrol,DCT,9,4
+14-02-2024,Lamborghini,Diablo,4562286,Female,Diesel,DCT,20,4.5
+02-12-2022,Dodge,Magnum,3651527,Male,CNC,DCT,22,4
+19-01-2024,Isuzu,Hombre,1084072,Male,Petrol,CVT,10,4
+11-01-2021,Buick,LaCrosse,716971,Female,Petrol,CVT,15,4
+21-12-2024,Chevrolet,Sportvan G20,1018780,Female,Hybrid,CVT,14,4.5
+19-11-2023,Dodge,Ram 3500,4882791,Female,Petrol,CVT,22,4
+13-02-2021,BMW,M3,3682490,Male,Hybrid,Manual,11,4.5
+28-01-2020,Chevrolet,Classic,1730198,Male,Hybrid,Automatic,18,4.5
+15-05-2024,Ford,E-Series,3217677,Female,Diesel,DCT,13,4
+02-09-2020,Chevrolet,Suburban 2500,2165943,Female,Hybrid,Manual,9,4.5
+16-02-2021,Saab,9-7X,4512547,Male,Petrol,Automatic,19,4
+16-09-2020,Mazda,Mazda2,2590130,Female,Electric,CVT,17,4
+27-12-2021,BMW,5 Series,4432663,Male,Petrol,DCT,10,4.5
+12-03-2021,Chevrolet,Silverado 3500,881941,Male,Electric,Automatic,16,4.5
+04-04-2020,Volkswagen,Golf,4387221,Female,Hybrid,CVT,20,4
+28-03-2024,GMC,Envoy XL,4094654,Female,Petrol,Manual,18,4
+30-07-2020,Mitsubishi,Galant,523743,Female,Diesel,DCT,17,4.5
+01-02-2025,Mazda,Mazdaspeed 3,1283350,Female,Hybrid,Automatic,13,4
+22-09-2021,Mazda,626,4804867,Female,Electric,CVT,22,4
+25-12-2024,Aston Martin,DB9,2241331,Male,Petrol,CVT,17,4.5
+15-12-2023,Dodge,D150 Club,3797752,Female,Hybrid,Automatic,16,4
+22-05-2021,Ford,E250,4392604,Male,Hybrid,Manual,19,4
+04-06-2020,Hyundai,Tiburon,4797732,Male,Hybrid,Manual,11,4
+28-05-2020,Isuzu,Ascender,2921002,Male,Hybrid,CVT,19,4
+15-02-2024,BMW,530,835156,Male,Electric,Automatic,19,4.5
+21-08-2024,Mercury,Grand Marquis,1267060,Male,Electric,Automatic,8,4
+07-12-2022,Chrysler,LHS,1818563,Female,Petrol,Manual,12,4
+15-01-2022,Isuzu,Amigo,631291,Female,Electric,DCT,18,4
+17-04-2024,Porsche,Panamera,3174986,Male,Hybrid,CVT,22,4.5
+09-08-2021,Volkswagen,Jetta,398896,Female,Hybrid,CVT,8,4
+27-06-2024,Toyota,RAV4,805772,Female,Hybrid,DCT,19,4
+28-07-2021,Chevrolet,3500,935286,Female,Electric,CVT,19,4.5
+12-07-2020,Nissan,Sentra,2943383,Female,Electric,Automatic,12,4.5
+25-04-2020,GMC,Suburban 2500,1472751,Female,Petrol,Manual,15,4
+28-08-2024,Volvo,XC90,2350684,Female,Electric,DCT,14,4.5
+31-10-2023,Toyota,Corolla,3980930,Female,CNC,DCT,10,4
+17-03-2023,Cadillac,SRX,4407742,Female,CNC,DCT,8,4
+30-11-2023,Ford,Club Wagon,2734671,Male,Hybrid,Automatic,20,4
+17-02-2024,Ford,F-Series,598940,Female,Electric,Automatic,19,4
+28-12-2024,GMC,3500,1475758,Male,Electric,CVT,17,4
+10-06-2023,Subaru,Impreza,2487005,Female,Hybrid,Manual,9,4.5
+03-01-2023,Chevrolet,Express 2500,1154777,Female,Diesel,CVT,22,4.5
+28-05-2021,Plymouth,Neon,1223499,Male,CNC,DCT,19,4
+08-04-2020,Suzuki,Swift,366042,Male,Hybrid,Manual,15,4
+18-09-2020,Subaru,Outback,1733941,Female,CNC,DCT,20,4.5
+12-11-2020,Saab,9-4X,2849989,Female,CNC,CVT,22,4
+17-08-2022,Chevrolet,SSR,4383012,Female,Hybrid,Manual,16,4.5
+12-02-2023,BMW,530,2462293,Female,Diesel,Manual,16,4.5
+10-03-2022,Pontiac,Trans Sport,1013459,Male,Electric,CVT,12,4
+08-12-2024,Toyota,Matrix,4979338,Female,CNC,CVT,8,4
+05-09-2020,Saturn,VUE,4685622,Male,Hybrid,Automatic,19,4
+26-06-2020,Chevrolet,Silverado 2500,1552845,Female,Diesel,DCT,13,4.5
+05-09-2022,Ford,Explorer,4314378,Male,CNC,CVT,17,4
+10-08-2024,Mazda,Mazda3,1549838,Male,Hybrid,CVT,19,4
+07-05-2020,Mitsubishi,Challenger,3782477,Female,Hybrid,CVT,17,4.5
+14-01-2022,Chevrolet,Corvette,4515250,Female,Petrol,DCT,17,4.5
+15-04-2022,Mercury,Tracer,3755511,Male,Petrol,CVT,15,4
+09-11-2022,Dodge,Viper RT/10,4217522,Male,Diesel,Manual,22,4
+24-08-2024,Audi,S6,4529495,Male,Hybrid,Manual,20,4.5
+20-04-2023,Benz,M-Class,4875034,Male,Electric,Manual,17,4.5
+21-07-2021,Ford,Aspire,4798417,Female,Petrol,CVT,21,4
+30-11-2024,Chevrolet,Corvette,856649,Male,Electric,Automatic,9,4.5
+29-01-2025,Volvo,S60,3519956,Male,Hybrid,DCT,18,4.5
+23-07-2023,Infiniti,G35,3103011,Female,CNC,DCT,18,4
+07-06-2023,Mitsubishi,Montero,2375474,Male,Petrol,DCT,8,4.5
+06-06-2024,Chrysler,PT Cruiser,3975913,Male,Diesel,CVT,8,4
+09-04-2024,Lexus,ES,3591622,Male,Petrol,Automatic,11,4
+20-08-2023,GMC,Sierra 2500,2855096,Male,CNC,DCT,21,4
+17-04-2022,Dodge,Ram 3500 Club,4017636,Female,Electric,CVT,16,4
+06-11-2022,Honda,S2000,348468,Female,CNC,DCT,22,4
+26-06-2023,Plymouth,Colt,1279000,Male,Petrol,Automatic,11,4
+19-09-2020,Lincoln,Navigator,1155529,Male,Diesel,DCT,15,4
+24-03-2023,Cadillac,Escalade,3254959,Female,Hybrid,DCT,20,4
+22-11-2023,Mazda,Tribute,2848491,Female,Electric,CVT,11,4
+01-12-2023,Chevrolet,S10,3403388,Male,CNC,Automatic,21,4.5
+11-06-2021,Kia,Sedona,1628645,Female,Hybrid,Manual,12,4
+11-05-2024,Oldsmobile,Intrigue,2087309,Male,CNC,CVT,18,4
+31-03-2024,Lexus,LX,1313838,Female,CNC,DCT,20,4
+28-03-2022,Mitsubishi,Montero,2514440,Female,CNC,DCT,17,4.5
+31-01-2023,Porsche,944,3112465,Male,CNC,DCT,15,4.5
+30-05-2024,Chevrolet,Tahoe,1536769,Female,Petrol,CVT,18,4.5
+14-05-2022,Pontiac,Grand Prix,4898312,Male,Hybrid,Manual,10,4
+17-06-2021,Toyota,Avalon,1182898,Female,Diesel,CVT,12,4
+16-09-2023,Lotus,Elise,834009,Male,Hybrid,Automatic,19,4
+02-10-2024,BMW,5 Series,293660,Female,Diesel,Automatic,20,4.5
+21-07-2023,Mitsubishi,Chariot,3854724,Male,Diesel,Manual,9,4.5
+14-03-2020,Benz,W201,1859559,Female,Diesel,Manual,10,4.5
+02-04-2022,Ford,Ranger,3334584,Female,CNC,DCT,12,4
+30-04-2022,Mitsubishi,GTO,564464,Male,Electric,CVT,16,4.5
+24-07-2023,Chevrolet,Corvette,378984,Male,Diesel,Automatic,10,4.5
+27-06-2022,Volvo,S60,3141225,Male,Electric,CVT,9,4.5
+20-11-2021,GMC,Savana 2500,4902895,Female,Electric,Manual,20,4
+09-08-2021,Lexus,IS,972629,Male,Diesel,Automatic,17,4
+24-06-2021,Audi,Coupe GT,4725846,Female,Diesel,DCT,18,4.5
+23-06-2021,Audi,Coupe GT,2898703,Female,Electric,Automatic,14,4.5
+18-02-2022,Ford,Econoline E350,531844,Female,Diesel,Manual,9,4
+03-09-2024,Lexus,ES,3448899,Male,Diesel,Manual,22,4
+09-07-2021,Pontiac,Grand Prix,3352191,Male,Petrol,Manual,18,4
+10-02-2024,Subaru,Outback,4868931,Male,Diesel,Automatic,19,4.5
+10-12-2022,Nissan,Pathfinder,806575,Female,Petrol,CVT,17,4.5
+03-08-2021,Dodge,Avenger,925280,Female,Diesel,Manual,13,4
+26-06-2023,Audi,V8,3774649,Male,Electric,DCT,20,4.5
+22-10-2024,Nissan,Armada,4279957,Female,Electric,CVT,21,4.5
+30-09-2021,Lexus,GX,3580548,Male,Electric,DCT,13,4
+19-05-2022,GMC,Savana 2500,4047257,Male,Hybrid,DCT,21,4
+09-12-2021,MINI,Countryman,3494949,Male,Hybrid,Automatic,22,4.5
+21-04-2022,Land Rover,Freelander,4315191,Male,Hybrid,Manual,18,4.5
+11-01-2020,Toyota,Yaris,4521387,Male,Hybrid,CVT,9,4
+10-06-2022,Chrysler,Imperial,4786880,Female,CNC,CVT,14,4
+27-01-2024,Acura,RL,1938858,Male,Hybrid,Automatic,14,4
+14-12-2024,GMC,Suburban 1500,2268789,Female,Hybrid,CVT,18,4
+26-05-2022,Chevrolet,Express 2500,4921077,Male,Electric,CVT,14,4.5
+15-12-2021,Buick,Coachbuilder,3516168,Male,Electric,DCT,12,4
+12-10-2023,Buick,Skylark,3573392,Male,Diesel,Automatic,12,4
+22-01-2025,BMW,Z4,3822746,Female,Electric,Manual,15,4.5
+16-11-2020,Ford,F-Series,685403,Male,Hybrid,DCT,15,4
+08-10-2022,Mitsubishi,Endeavor,4378857,Female,Electric,CVT,12,4.5
+10-03-2023,Toyota,4Runner,2864364,Female,CNC,DCT,9,4
+20-04-2023,Infiniti,G,635957,Female,Petrol,Automatic,13,4
+28-03-2024,Pontiac,Grand Prix,3692720,Female,Diesel,DCT,17,4
+29-06-2022,Dodge,Stratus,3992540,Male,Hybrid,DCT,8,4
+30-03-2023,Honda,CR-V,2170441,Male,Electric,DCT,13,4
+18-06-2022,Ford,Contour,1720058,Female,Electric,Automatic,9,4
+25-02-2020,Mercury,Topaz,4358737,Female,Hybrid,Automatic,14,4
+31-01-2021,Buick,Regal,3346598,Male,CNC,CVT,12,4
+01-10-2020,Chevrolet,Sportvan G10,1269782,Male,Diesel,DCT,16,4.5
+20-09-2022,Pontiac,Sunbird,3376836,Male,Diesel,Manual,21,4
+02-02-2021,Volkswagen,Cabriolet,2122322,Female,Hybrid,Manual,22,4
+20-12-2021,Bentley,Azure,2312243,Female,Hybrid,CVT,16,4.5
+30-06-2020,Pontiac,Firebird,4019759,Male,Petrol,Automatic,10,4
+30-12-2023,Mercury,Sable,1311182,Female,Electric,DCT,15,4
+25-12-2023,Pontiac,Bonneville,4384724,Male,Electric,DCT,16,4
+20-12-2021,Dodge,Charger,3034232,Male,Petrol,CVT,12,4
+19-04-2024,BMW,M5,385797,Male,Petrol,Automatic,8,4.5
+04-05-2021,Volkswagen,Golf III,2672532,Male,Petrol,Manual,17,4
+14-04-2023,Chevrolet,Corvette,1099308,Female,Diesel,CVT,13,4.5
+09-03-2024,Nissan,240SX,4523144,Male,Petrol,Manual,8,4.5
+03-04-2022,Toyota,Sienna,4623658,Male,Diesel,DCT,13,4
+10-03-2024,Pontiac,Firebird,3287787,Female,CNC,Automatic,11,4
+18-11-2022,Mitsubishi,Chariot,782915,Male,CNC,DCT,13,4.5
+30-07-2022,Mitsubishi,Eclipse,1718632,Female,Hybrid,Manual,18,4.5
+30-12-2022,Nissan,Maxima,983964,Female,CNC,DCT,21,4.5
+17-10-2020,Jeep,Grand Cherokee,2979748,Male,CNC,DCT,12,4.5
+19-03-2021,Mitsubishi,Lancer,1449121,Male,Petrol,DCT,15,4.5
+22-11-2023,Lexus,IS,275925,Male,Petrol,Manual,21,4
+22-12-2023,Suzuki,Grand Vitara,4369908,Male,Electric,CVT,18,4
+04-06-2020,Buick,Skylark,3261260,Male,Hybrid,Manual,10,4
+06-07-2020,Lexus,GX,2203984,Male,CNC,DCT,16,4
+15-06-2022,Ford,F150,2741422,Female,CNC,DCT,13,4
+20-02-2021,Dodge,Caravan,4832685,Female,Hybrid,DCT,13,4
+25-01-2025,Ford,Thunderbird,828670,Female,Petrol,DCT,9,4
+10-08-2024,Porsche,Carrera GT,3812815,Male,Diesel,CVT,19,4.5
+07-12-2024,Saturn,Sky,2055259,Male,Hybrid,DCT,20,4
+23-12-2021,Chevrolet,Camaro,2684053,Male,Diesel,Manual,9,4.5
+15-08-2023,Infiniti,Q,3783080,Female,CNC,DCT,9,4
+12-02-2021,Mazda,Miata MX-5,3508967,Male,Hybrid,Manual,12,4
+14-02-2023,Volkswagen,GTI,3692357,Male,Petrol,Automatic,19,4
+23-10-2024,Cadillac,Seville,1816171,Male,CNC,DCT,14,4
+29-06-2020,Hyundai,Sonata,373401,Female,Hybrid,DCT,11,4
+27-11-2023,Plymouth,Reliant,2820332,Female,Electric,DCT,20,4
+18-03-2020,Chevrolet,Silverado Hybrid,758519,Male,Hybrid,CVT,9,4.5
+18-11-2023,Pontiac,Firefly,1338389,Female,Electric,DCT,21,4
+27-10-2021,Subaru,Outback,1309257,Male,CNC,Automatic,22,4.5
+19-12-2023,Volvo,V70,3820132,Female,Hybrid,CVT,13,4.5
+19-10-2020,Maserati,Gran Sport,4786098,Male,Hybrid,CVT,22,4
+25-03-2023,Mazda,MX-5,375933,Male,Electric,CVT,13,4
+23-11-2020,Mitsubishi,L300,4501683,Female,Petrol,DCT,15,4.5
+03-03-2023,Benz,300SL,3241779,Male,Diesel,Automatic,21,4.5
+14-11-2023,Subaru,Outback,4543189,Female,Diesel,Automatic,8,4.5
+31-05-2024,Mazda,626,1124667,Female,CNC,CVT,15,4
+27-04-2021,Mercury,Villager,1707924,Male,Hybrid,DCT,15,4
+17-01-2022,Chevrolet,Corvette,2628005,Female,CNC,Manual,22,4.5
+21-11-2023,Lexus,IS,259337,Female,CNC,Manual,17,4
+15-01-2021,Alfa Romeo,164,1409508,Female,Petrol,DCT,22,4
+08-07-2021,Toyota,Land Cruiser,960736,Male,Electric,CVT,15,4
+25-09-2021,Dodge,Daytona,998934,Female,Hybrid,DCT,15,4
+04-04-2022,GMC,Savana 3500,619995,Female,Electric,Manual,17,4
+08-05-2020,Benz,S-Class,2825873,Male,Hybrid,DCT,8,4.5
+08-05-2020,Audi,riolet,4025821,Female,Diesel,CVT,19,4.5
+07-02-2021,Toyota,Camry Solara,3674414,Female,Hybrid,CVT,21,4
+05-09-2022,Mazda,Familia,2332379,Female,Diesel,CVT,11,4
+19-01-2025,Ford,E350,2535821,Female,Petrol,Automatic,18,4
+28-02-2021,Jaguar,XJ Series,2690268,Female,Petrol,Manual,14,4.5
+17-10-2021,Ford,Ranger,2392909,Female,Electric,Manual,21,4
+02-09-2020,Mercury,Lynx,3252806,Male,Hybrid,DCT,13,4
+05-05-2024,BMW,M,464596,Female,Hybrid,Automatic,9,4.5
+02-08-2023,Mazda,RX-7,2022550,Male,Electric,Automatic,17,4
+05-10-2021,GMC,Suburban 2500,1113812,Female,Petrol,Automatic,17,4
+28-06-2020,Pontiac,Tempest,2860529,Female,Petrol,Manual,13,4
+26-06-2023,Chevrolet,Express 2500,1082042,Female,Hybrid,Manual,10,4.5
+08-05-2020,Hyundai,Santa Fe,4447283,Male,CNC,CVT,22,4
+05-10-2023,Dodge,Ram 1500,3518650,Female,Diesel,CVT,13,4
+21-09-2023,Lamborghini,Gallardo,1728538,Female,Hybrid,Automatic,8,4.5
+24-09-2024,Toyota,Sienna,3286596,Female,Electric,Automatic,20,4
+27-05-2020,BMW,1 Series,2936206,Male,Hybrid,CVT,21,4.5
+31-12-2020,Audi,riolet,4729611,Male,CNC,Automatic,12,4.5
+11-12-2023,Cadillac,Escalade,2451264,Male,Hybrid,DCT,22,4
+17-09-2021,Ford,Explorer Sport,3281179,Female,CNC,Manual,20,4
+09-02-2023,Volkswagen,GTI,3553460,Female,CNC,Automatic,20,4
+16-11-2024,Dodge,Ram 1500,4909115,Female,Electric,Manual,22,4
+31-12-2022,Volvo,XC60,1153543,Female,CNC,CVT,15,4.5
+26-10-2024,Chevrolet,Tracker,4360064,Male,Diesel,DCT,11,4.5
+30-04-2023,Infiniti,I,4133178,Female,Diesel,DCT,15,4
+23-09-2022,Toyota,Tacoma,1693335,Female,Hybrid,Manual,10,4
+16-08-2021,Ford,Taurus,4939547,Male,Petrol,DCT,13,4
+29-08-2023,Ford,Freestar,2206365,Male,Petrol,Manual,22,4
+11-03-2020,Mercury,Mystique,2089642,Male,Petrol,Manual,20,4
+16-01-2023,Chevrolet,Corvette,1076650,Female,Diesel,Manual,21,4.5
+19-06-2024,Volvo,S80,2789744,Female,Electric,Manual,13,4.5
+24-03-2021,Pontiac,Solstice,3362687,Male,Diesel,CVT,22,4
+27-09-2023,GMC,Sierra 2500,4998375,Female,Electric,DCT,22,4
+19-10-2022,Dodge,Ram Wagon B250,3648894,Male,CNC,CVT,21,4
+09-09-2023,Scion,tC,4213215,Male,CNC,Manual,12,4
+28-08-2024,Pontiac,Grand Prix,2028584,Male,Diesel,CVT,15,4
+13-07-2021,Porsche,Boxster,4938521,Male,Petrol,Manual,18,4.5
+13-03-2022,Benz,CL-Class,3421821,Female,Electric,Automatic,14,4.5
+07-01-2023,Nissan,Sentra,1470294,Male,CNC,DCT,22,4.5
+05-07-2024,BMW,3 Series,3941378,Female,CNC,Manual,10,4.5
+30-09-2021,Hyundai,Accent,3463807,Male,Diesel,CVT,21,4
+01-01-2021,Cadillac,STS,791225,Female,CNC,CVT,15,4
+24-03-2020,Oldsmobile,Cutlass Supreme,1988835,Male,Petrol,DCT,14,4
+12-09-2021,Ford,E250,3510127,Female,Petrol,CVT,13,4
+28-04-2021,GMC,2500,1552827,Female,Electric,Manual,12,4
+22-04-2020,Pontiac,Aztek,2970161,Male,Petrol,DCT,16,4
+26-07-2021,Chevrolet,Equinox,1448568,Female,Hybrid,CVT,16,4.5
+03-06-2021,Hyundai,Azera,1850328,Female,Diesel,DCT,22,4
+09-04-2021,Honda,Accord,2497137,Female,Petrol,Automatic,20,4
+01-11-2023,Pontiac,GTO,3340334,Male,Diesel,Automatic,17,4
+14-05-2023,Infiniti,EX,2401016,Male,Electric,DCT,19,4
+03-12-2023,Ford,Econoline E150,4868949,Male,Electric,CVT,8,4
+21-03-2020,Chrysler,Sebring,562058,Female,CNC,Automatic,16,4
+26-10-2022,Ford,Taurus,4853245,Male,CNC,Manual,11,4
+10-10-2023,Toyota,Avalon,4544724,Female,CNC,CVT,8,4
+02-03-2022,Oldsmobile,Regency,3334980,Female,Hybrid,DCT,11,4
+20-03-2023,Chrysler,Town & Country,2466106,Male,Diesel,DCT,12,4
+20-04-2022,Benz,500E,4732550,Male,Petrol,Automatic,12,4.5
+25-03-2022,Acura,TSX,4199324,Female,Diesel,Automatic,16,4
+10-04-2023,Audi,A3,4891535,Female,Electric,CVT,17,4.5
+29-09-2024,Chevrolet,Suburban 2500,2100445,Female,Electric,CVT,21,4.5
+01-06-2023,GMC,Vandura 1500,3708751,Male,Diesel,DCT,20,4
+19-04-2020,Isuzu,Ascender,1545746,Male,Diesel,DCT,22,4
+30-11-2023,Audi,4000CS Quattro,4079711,Female,Electric,DCT,17,4.5
+25-05-2020,Jaguar,S-Type,1524277,Male,Electric,DCT,18,4.5
+22-02-2022,Audi,80,2382423,Male,Electric,DCT,11,4.5
+01-08-2021,Ford,Expedition EL,398147,Male,CNC,CVT,17,4
+26-07-2021,Chevrolet,Impala,929260,Male,Petrol,Automatic,22,4.5
+10-10-2024,Ferrari,F430,2870432,Male,Electric,Automatic,17,4.5
+25-02-2020,Ford,Mustang,2954440,Female,CNC,Manual,18,4
+29-11-2021,Chevrolet,Express 3500,4258534,Male,Petrol,Manual,9,4.5
+02-05-2021,Mitsubishi,Mirage,1261621,Male,CNC,Automatic,14,4.5
+11-05-2021,Toyota,Celica,4286929,Female,Petrol,Automatic,12,4
+05-06-2020,Mitsubishi,Diamante,696270,Male,Diesel,Manual,14,4.5
+29-08-2020,Audi,A4,540397,Male,Diesel,Manual,13,4.5
+29-11-2022,Land Rover,Freelander,4680652,Male,CNC,Automatic,16,4.5
+08-01-2024,Toyota,Sienna,1944328,Female,Diesel,DCT,18,4
+24-05-2020,Volvo,S80,555159,Female,Hybrid,DCT,17,4.5
+29-11-2024,Buick,Electra,2466982,Male,CNC,Manual,9,4
+12-04-2021,Lotus,Esprit,2900964,Male,Diesel,CVT,19,4
+15-10-2023,Pontiac,Trans Sport,4631648,Male,Hybrid,CVT,15,4
+01-01-2023,Aston Martin,V8 Vantage,4709758,Female,Petrol,DCT,9,4.5
+10-02-2023,GMC,Savana 1500,4853879,Female,Hybrid,Automatic,11,4
+19-04-2024,Mitsubishi,Galant,3329685,Male,CNC,Manual,8,4.5
+10-01-2023,Toyota,Prius,1277096,Female,Electric,DCT,12,4
+10-03-2023,Chevrolet,Corvette,4871647,Female,Petrol,Automatic,20,4.5
+07-09-2023,Buick,Skylark,1196657,Female,Diesel,DCT,12,4
+16-07-2021,Suzuki,Swift,4688350,Female,Diesel,CVT,9,4
+12-08-2021,Chevrolet,Venture,3952852,Female,Electric,Manual,20,4.5
+20-04-2022,Nissan,370Z,810513,Female,CNC,Manual,12,4.5
+17-10-2021,Dodge,Ram 2500,3299057,Female,Electric,Manual,8,4
+23-05-2023,Volkswagen,Passat,1756793,Male,CNC,DCT,8,4
+23-01-2025,Mercury,Marquis,4978700,Male,Hybrid,Manual,19,4
+23-04-2024,Volvo,XC60,485237,Male,CNC,DCT,8,4.5
+07-11-2020,Volkswagen,Touareg,4136284,Female,Petrol,Manual,21,4
+12-08-2023,Aston Martin,V8 Vantage S,1152195,Male,Hybrid,Automatic,20,4.5
+25-06-2023,Acura,Integra,2003412,Female,Petrol,Manual,19,4
+05-10-2020,Nissan,Pathfinder,3180322,Female,Petrol,CVT,16,4.5
+11-01-2020,Hyundai,Scoupe,4391372,Male,CNC,Manual,12,4
+18-09-2024,Volvo,S60,4360445,Male,Petrol,DCT,10,4.5
+30-08-2023,Buick,Rendezvous,475009,Female,Electric,Automatic,12,4
+07-10-2024,Holden,Monaro,1433376,Female,Hybrid,DCT,14,4
+09-12-2024,Subaru,Impreza,4696366,Female,Petrol,CVT,17,4.5
+28-03-2022,Mazda,Miata MX-5,4018641,Female,Hybrid,DCT,20,4
+16-03-2021,Jaguar,XJ Series,1660740,Female,Electric,CVT,22,4.5
+21-11-2022,Audi,S4,1411809,Female,Petrol,CVT,21,4.5
+02-05-2022,Mazda,MX-5,2028883,Male,CNC,Automatic,17,4
+05-01-2023,Volvo,S80,665515,Male,Petrol,DCT,11,4.5
+17-02-2021,Mitsubishi,RVR,2928307,Female,Electric,Manual,16,4.5
+01-04-2022,Chevrolet,Beretta,2655780,Male,Hybrid,Automatic,11,4.5
+07-05-2023,Land Rover,LR2,256524,Female,Petrol,Automatic,11,4.5
+10-01-2023,Aston Martin,DB9,2135475,Female,Diesel,Automatic,12,4.5
+23-12-2021,Audi,S5,3820844,Female,Electric,Automatic,8,4.5
+01-08-2022,Audi,A6,4701615,Male,Diesel,Manual,12,4.5
+06-10-2022,Subaru,Forester,3492552,Female,Electric,Manual,20,4.5
+12-05-2024,Mercury,Capri,508872,Male,Petrol,DCT,16,4
+10-10-2021,Suzuki,Swift,540823,Female,Electric,Automatic,9,4
+11-10-2024,Mazda,626,629473,Female,Diesel,DCT,21,4
+11-05-2022,Honda,Accord,2173427,Male,CNC,DCT,9,4
+28-10-2020,Volvo,S40,4465666,Female,Electric,Automatic,18,4.5
+02-09-2023,Honda,Civic,1156712,Female,Hybrid,Automatic,8,4
+05-12-2022,GMC,Sierra 3500,4362115,Male,Electric,CVT,9,4
+21-04-2021,Oldsmobile,88,2864225,Female,Hybrid,Manual,15,4
+08-07-2022,Jaguar,XK Series,4838838,Male,Electric,DCT,16,4.5
+07-10-2020,Toyota,Land Cruiser,3058935,Female,Hybrid,CVT,19,4
+08-07-2021,Lincoln,MKT,1619331,Male,Diesel,CVT,9,4
+29-07-2023,Suzuki,Daewoo Lacetti,4954608,Male,Petrol,Manual,17,4
+24-11-2020,Buick,Century,2760037,Male,CNC,CVT,15,4
+30-05-2020,Plymouth,Neon,3165596,Female,CNC,CVT,12,4
+17-12-2021,GMC,Savana Cargo Van,499218,Female,Electric,DCT,11,4
+29-10-2021,Kia,Rio,2992944,Female,Diesel,DCT,8,4
+07-04-2022,Chevrolet,Camaro,3595961,Male,Hybrid,Automatic,17,4.5
+05-06-2021,Chevrolet,Caprice,3422637,Female,Hybrid,CVT,12,4.5
+14-06-2020,GMC,Sierra 2500,1787249,Female,CNC,DCT,14,4
+30-03-2020,Mitsubishi,RVR,862284,Female,CNC,DCT,13,4.5
+26-01-2020,Lexus,HS,4028558,Female,Petrol,Manual,22,4
+24-11-2020,Chevrolet,1500,693426,Female,Diesel,Manual,14,4.5
+03-02-2022,Chevrolet,Silverado 3500,3860909,Female,Petrol,Manual,12,4.5
+14-06-2020,Dodge,Ram 1500,2060998,Male,Petrol,Automatic,9,4
+20-10-2023,GMC,Savana 1500,817942,Female,CNC,CVT,19,4
+11-08-2022,Dodge,Intrepid,1394391,Female,Electric,DCT,16,4
+03-09-2020,Mitsubishi,i-MiEV,3095628,Female,Diesel,CVT,19,4.5
+13-06-2021,Infiniti,QX,2502922,Male,Diesel,CVT,14,4
+12-03-2022,Chevrolet,Suburban 2500,3654379,Female,Electric,DCT,21,4.5
+23-10-2022,GMC,Envoy,4907627,Male,Hybrid,DCT,21,4
+18-05-2021,Toyota,Celica,3928821,Female,Electric,CVT,21,4
+11-05-2021,Nissan,Altima,3689034,Female,Petrol,Manual,21,4.5
+24-12-2021,Audi,riolet,4014601,Male,Diesel,Automatic,9,4.5
+18-10-2023,GMC,Yukon,4698792,Male,Hybrid,Manual,10,4
+22-03-2022,Chrysler,300,438210,Female,Electric,DCT,12,4
+11-08-2024,Lincoln,MKZ,1467555,Male,Petrol,Manual,20,4
+19-11-2023,Pontiac,Tempest,2874626,Female,Hybrid,CVT,21,4
+08-09-2021,Chrysler,LeBaron,3715348,Male,Petrol,DCT,10,4
+28-03-2023,Lexus,SC,4613716,Female,Electric,Manual,14,4
+02-11-2020,Dodge,Ram 2500,489109,Male,Electric,CVT,9,4
+10-07-2021,Chevrolet,Express 2500,1307277,Male,CNC,DCT,11,4.5
+27-01-2021,Dodge,Dakota,1955329,Female,Electric,CVT,10,4
+08-08-2023,Mitsubishi,Tundra,771186,Male,Hybrid,Manual,22,4.5
+01-12-2023,GMC,3500 Club Coupe,2682491,Male,Electric,DCT,13,4
+25-10-2023,Nissan,Altima,2388664,Male,CNC,Automatic,20,4.5
+11-02-2021,Ford,Freestyle,1336896,Male,Diesel,DCT,12,4
+11-06-2022,Volkswagen,Rabbit,1195114,Female,Hybrid,CVT,22,4
+12-08-2022,Toyota,Paseo,3336721,Female,Diesel,Automatic,15,4
+19-06-2020,Acura,TL,2580012,Female,CNC,CVT,10,4
+29-01-2021,Ford,Tempo,2698933,Male,Hybrid,DCT,10,4
+25-09-2020,MINI,Clubman,4111254,Male,CNC,DCT,13,4.5
+22-12-2023,Benz,C-Class,4180896,Female,Petrol,DCT,13,4.5
+22-07-2021,Subaru,Forester,304443,Male,Hybrid,DCT,21,4.5
+23-01-2022,Subaru,SVX,3728715,Female,Petrol,CVT,12,4.5
+12-09-2024,Mazda,626,1030460,Male,Hybrid,Manual,9,4
+08-08-2023,Lexus,LS,4534739,Female,CNC,Automatic,9,4
+26-07-2022,Acura,CL,4550328,Male,Diesel,CVT,18,4
+12-03-2021,Ford,Explorer,3894811,Male,Electric,Manual,10,4
+22-04-2020,Chevrolet,Tracker,395003,Male,CNC,Automatic,9,4.5
+31-12-2024,Honda,Ridgeline,783703,Female,Hybrid,DCT,22,4
+25-05-2021,Aston Martin,DB9,2137815,Female,Diesel,DCT,13,4.5
+17-04-2022,Lincoln,Mark VII,3974997,Female,Electric,DCT,20,4
+03-03-2022,Suzuki,Aerio,1829388,Male,Electric,Manual,15,4
+24-10-2021,Isuzu,VehiCROSS,971587,Male,Diesel,DCT,21,4
+25-06-2023,Saturn,VUE,2174204,Male,Diesel,Automatic,17,4
+26-01-2025,Mitsubishi,Diamante,714633,Female,Petrol,Manual,12,4.5
+20-07-2021,Dodge,Grand Caravan,2793553,Male,Petrol,Manual,22,4
+01-02-2025,Benz,W201,4429755,Male,CNC,Manual,20,4.5
+01-06-2023,GMC,Yukon XL 1500,1205096,Female,Hybrid,Manual,15,4
+28-03-2024,Toyota,Avalon,2270493,Male,Petrol,DCT,22,4
+28-01-2024,Audi,TT,4276322,Female,CNC,DCT,9,4.5
+22-03-2020,Buick,Park Avenue,3603368,Male,Hybrid,CVT,12,4
+19-01-2024,GMC,Yukon,2882483,Female,Diesel,Manual,11,4
+16-05-2023,GMC,Sonoma,3241015,Female,Hybrid,CVT,16,4
+19-10-2022,Ford,F-Series Super Duty,551556,Male,Hybrid,Manual,12,4
+10-05-2023,Infiniti,QX,3434684,Male,Electric,Automatic,17,4
+25-07-2021,Buick,Century,2141828,Female,Electric,CVT,21,4
+20-07-2020,Ford,Aspire,3984785,Female,CNC,Automatic,22,4
+08-12-2022,Honda,S2000,1447181,Female,CNC,CVT,15,4
+08-08-2022,Pontiac,Sunfire,1446424,Female,CNC,CVT,15,4
+16-05-2022,Lexus,LX,4690905,Male,Electric,CVT,17,4
+01-06-2023,Chevrolet,Silverado Hybrid,2500017,Female,Diesel,Manual,17,4.5
+30-10-2021,GMC,Suburban 1500,1520104,Female,Petrol,Manual,16,4
+20-01-2021,Lincoln,Continental Mark VII,2089927,Male,CNC,CVT,15,4
+19-11-2024,Mazda,CX-7,555990,Male,Hybrid,Manual,16,4
+18-08-2021,Volvo,XC90,1102595,Male,Diesel,Manual,10,4.5
+26-04-2022,Mercury,Cougar,2318735,Female,Electric,DCT,8,4
+24-11-2022,Mercury,Grand Marquis,2009274,Male,Electric,Automatic,18,4
+03-11-2020,Buick,Skyhawk,4099268,Male,Diesel,Manual,10,4
+14-12-2020,Volkswagen,Passat,3438298,Male,Electric,CVT,22,4
+08-02-2023,Nissan,200SX,3455493,Male,Hybrid,CVT,15,4.5
+08-10-2021,Infiniti,Q,2289154,Male,Diesel,DCT,15,4
+26-08-2020,Lotus,Esprit,3049702,Male,Hybrid,Automatic,8,4
+13-04-2024,Eagle,Vision,3219246,Female,Electric,DCT,21,4
+01-02-2025,Porsche,911,3547569,Female,Electric,DCT,9,4.5
+04-05-2022,Saab,09-May,909402,Female,CNC,Manual,21,4
+19-08-2024,Ford,Ranger,401870,Male,Hybrid,DCT,12,4
+28-08-2022,Ford,Econoline E350,458597,Male,Hybrid,Manual,17,4
+06-12-2022,Mazda,MX-3,4899875,Female,Hybrid,Automatic,16,4
+29-04-2020,Volvo,S80,2452042,Male,Hybrid,DCT,18,4.5
+04-06-2021,Ford,Transit Connect,4437998,Female,Electric,Automatic,13,4
+23-05-2023,Volkswagen,Corrado,4761787,Male,Electric,CVT,16,4
+09-01-2020,Buick,Park Avenue,293272,Male,CNC,Manual,13,4
+06-06-2024,Volvo,S40,3348881,Male,CNC,Automatic,19,4.5
+14-08-2024,Lotus,Esprit,1570816,Female,CNC,Manual,11,4
+03-08-2020,Ford,F350,2655426,Male,Diesel,CVT,9,4
+11-05-2024,Pontiac,Grand Prix,340757,Female,Petrol,Manual,10,4
+19-01-2025,Toyota,Tercel,820471,Male,Electric,Automatic,20,4
+02-01-2024,Suzuki,Reno,4223679,Male,CNC,DCT,10,4
+03-12-2024,Dodge,Ram 1500,4104323,Female,Hybrid,Manual,22,4
+27-05-2022,Ford,Taurus,2710614,Male,Diesel,DCT,22,4
+21-10-2021,Porsche,Cayman,1727277,Male,Diesel,DCT,13,4.5
+12-03-2020,GMC,Sierra 1500,803588,Female,Diesel,Manual,8,4
+16-02-2021,Hyundai,Tucson,4526728,Female,Petrol,Automatic,15,4
+16-06-2022,Toyota,4Runner,1614702,Male,Hybrid,DCT,10,4
+16-12-2020,Mercury,Grand Marquis,1069011,Male,Diesel,DCT,13,4
+11-05-2022,Mitsubishi,Chariot,806582,Male,CNC,DCT,11,4.5
+27-05-2020,Chevrolet,Suburban 2500,4881249,Female,Hybrid,Manual,22,4.5
+09-03-2021,Lincoln,Blackwood,4186857,Female,Hybrid,CVT,12,4
+25-08-2023,Chrysler,Grand Voyager,2605120,Female,Diesel,DCT,16,4
+04-09-2023,Oldsmobile,Silhouette,2679038,Male,Electric,CVT,16,4
+08-05-2021,Pontiac,Grand Prix,4152109,Female,Petrol,Automatic,15,4
+28-12-2024,Isuzu,Trooper,1291972,Female,Petrol,CVT,10,4
+31-08-2023,GMC,Acadia,4892297,Male,Petrol,DCT,16,4
+21-06-2024,Lotus,Esprit,572926,Male,Petrol,DCT,16,4
+15-06-2023,Subaru,Forester,4848813,Male,Electric,Automatic,12,4.5
+03-09-2022,Lexus,GS,4816850,Male,Electric,DCT,20,4
+24-11-2024,Hyundai,Elantra,3027705,Female,Petrol,DCT,14,4
+13-02-2020,Audi,A4,445886,Female,CNC,DCT,10,4.5
+07-07-2024,BMW,X6 M,2705144,Female,Diesel,Automatic,22,4.5
+12-12-2023,Audi,Allroad,1471784,Male,Hybrid,CVT,22,4.5
+17-02-2020,Cadillac,Eldorado,3723933,Female,Hybrid,DCT,11,4
+21-07-2023,Kia,Rio,4173041,Male,Diesel,Manual,12,4
+25-11-2022,Honda,Accord,2910160,Female,CNC,Automatic,17,4
+27-11-2021,Pontiac,Gemini,1991689,Female,CNC,Manual,16,4
+21-11-2023,Mitsubishi,Mirage,2570052,Female,Hybrid,Automatic,15,4.5
+15-04-2023,Hyundai,Genesis,1755335,Male,Electric,DCT,22,4
+01-09-2020,Audi,riolet,3498948,Male,CNC,DCT,13,4.5
+19-11-2024,BMW,M Roadster,4884322,Male,Diesel,Manual,19,4.5
+14-10-2021,Acura,RL,3432267,Female,Hybrid,Automatic,9,4
+19-08-2023,Ford,Mustang,3128376,Male,CNC,DCT,22,4
+07-05-2023,Mazda,B-Series,825414,Male,CNC,DCT,21,4
+20-09-2024,Ram,2500,4244123,Male,Petrol,DCT,16,4
+29-12-2024,Honda,Odyssey,315123,Female,CNC,Automatic,9,4
+09-01-2022,Jeep,Grand Cherokee,2072717,Male,CNC,CVT,14,4.5
+23-09-2023,Mercury,Sable,3505084,Female,Electric,CVT,21,4
+19-04-2020,Dodge,Ram 1500 Club,362226,Male,CNC,Manual,13,4
+17-07-2020,Maserati,GranSport,747201,Male,Hybrid,Automatic,9,4
+20-05-2022,Pontiac,Firebird,1713088,Male,Electric,Manual,22,4
+05-06-2024,Chevrolet,Tracker,1476001,Male,Hybrid,Manual,21,4.5
+13-05-2021,Oldsmobile,98,2754363,Female,Diesel,DCT,21,4
+28-06-2024,Saturn,Aura,4134401,Male,Diesel,Manual,8,4
+15-10-2022,Dodge,Ram Van 3500,1839787,Male,Diesel,DCT,10,4
+20-08-2024,BMW,M Roadster,4551404,Female,CNC,DCT,22,4.5
+22-10-2023,Volkswagen,Touareg,1326452,Female,Electric,DCT,14,4
+25-01-2024,Lincoln,Town Car,2397787,Female,CNC,DCT,12,4
+25-10-2024,Pontiac,Grand Prix,4826086,Male,CNC,CVT,10,4
+11-08-2021,Volkswagen,Touareg,901580,Female,CNC,Manual,21,4
+04-07-2023,Pontiac,Montana,2454570,Female,Diesel,Automatic,13,4
+06-04-2021,Honda,Accord,2688511,Female,Electric,Manual,11,4
+15-05-2024,Lincoln,MKX,2658439,Male,Electric,Manual,14,4
+01-05-2021,Dodge,Daytona,2653222,Female,Petrol,CVT,10,4
+22-07-2022,Land Rover,Range Rover,1417032,Female,Petrol,DCT,11,4.5
+22-06-2022,Kia,Sportage,2494520,Male,Electric,Manual,15,4
+20-05-2022,Toyota,Prius Plug-in,2138150,Female,Diesel,Automatic,16,4
+09-08-2022,Lexus,GS,3666922,Male,CNC,CVT,13,4
+15-01-2024,Audi,S4,2015923,Male,Electric,Automatic,17,4.5
+20-12-2023,Ford,F350,3448081,Female,CNC,Manual,8,4
+04-02-2024,Chevrolet,TrailBlazer,4953063,Male,Hybrid,Automatic,17,4.5
+23-04-2024,GMC,Jimmy,700610,Male,Electric,CVT,20,4
+09-07-2024,Lexus,SC,2542195,Female,CNC,Manual,16,4
+18-11-2021,MINI,Cooper,3077878,Female,Petrol,CVT,10,4.5
+31-01-2023,Buick,LaCrosse,633844,Male,Hybrid,Automatic,9,4
+13-07-2024,Lincoln,Navigator L,574522,Male,Electric,Automatic,9,4
+21-03-2020,GMC,Safari,2684519,Female,Electric,Automatic,14,4
+12-08-2024,Benz,C-Class,2793108,Female,Electric,DCT,14,4.5
+02-02-2024,Toyota,Corolla,3565363,Female,Hybrid,CVT,19,4
+17-06-2020,Oldsmobile,Toronado,3670590,Female,CNC,Automatic,13,4
+02-02-2023,BMW,5 Series,3247557,Female,Petrol,CVT,10,4.5
+24-06-2021,Ford,Flex,2456889,Male,Diesel,DCT,8,4
+23-07-2023,Chevrolet,HHR,4086760,Female,Hybrid,Automatic,14,4.5
+22-03-2024,Cadillac,SRX,3925295,Female,Petrol,CVT,9,4
+29-03-2020,Isuzu,Trooper,2719103,Male,Diesel,CVT,8,4
+07-02-2021,Honda,Element,2263901,Female,Hybrid,Automatic,12,4
+26-06-2024,BMW,M3,2967078,Female,Petrol,Automatic,10,4.5
+07-05-2024,Porsche,968,4729386,Female,Hybrid,DCT,13,4.5
+22-04-2020,Honda,Civic Si,735713,Male,Diesel,CVT,15,4
+21-06-2024,Subaru,Forester,4045866,Male,Electric,Automatic,19,4.5
+15-01-2025,Pontiac,Sunbird,2476962,Female,Hybrid,DCT,20,4
+26-11-2021,Ford,Mustang,4406208,Female,Diesel,DCT,18,4
+19-12-2023,Nissan,Armada,3709291,Male,Petrol,DCT,10,4.5
+26-10-2023,Porsche,Panamera,2347671,Male,Electric,CVT,9,4.5
+03-02-2020,Toyota,Celica,3739751,Female,Petrol,DCT,17,4
+19-01-2023,Ford,F150,618659,Male,Diesel,Automatic,22,4
+13-02-2021,Chrysler,Crossfire,2264592,Female,Diesel,DCT,19,4
+29-01-2020,Audi,5000CS,2678972,Male,Electric,Automatic,22,4.5
+07-05-2021,Ford,Econoline E350,3459053,Female,Diesel,CVT,19,4
+10-05-2024,Subaru,Legacy,4677970,Female,Petrol,CVT,16,4.5
+07-11-2020,Cadillac,STS,4960237,Female,CNC,DCT,19,4
+19-02-2024,Saturn,L-Series,4524427,Female,Petrol,Automatic,20,4
+12-10-2020,Mitsubishi,Outlander,1539049,Female,Diesel,CVT,15,4.5
+14-08-2021,Chrysler,Sebring,2951853,Female,Petrol,CVT,9,4
+24-05-2022,Ford,Aspire,668817,Male,Hybrid,DCT,10,4
+26-09-2022,Ford,F-Series,4689978,Male,Diesel,Automatic,20,4
+23-11-2020,Audi,S8,514016,Female,Diesel,CVT,16,4.5
+17-09-2024,Land Rover,Range Rover,4184584,Female,Diesel,Automatic,21,4.5
+25-04-2023,Toyota,Highlander,4325201,Female,Diesel,CVT,21,4
+15-01-2024,Toyota,Corolla,3226555,Female,Diesel,Manual,8,4
+02-09-2022,Mercury,Capri,368406,Female,Petrol,CVT,9,4
+20-12-2020,BMW,Z4,4569251,Male,Hybrid,CVT,22,4.5
+08-01-2021,Dodge,Stealth,4553751,Female,Hybrid,Automatic,21,4
+17-11-2020,Land Rover,Range Rover,3397629,Male,Diesel,Manual,8,4.5
+12-08-2023,Mitsubishi,Lancer Evolution,255056,Male,Petrol,Automatic,13,4.5
+27-02-2021,Acura,MDX,3367727,Female,Hybrid,CVT,18,4
+12-12-2024,Ford,Thunderbird,4503946,Male,Hybrid,Manual,13,4
+14-04-2020,Lincoln,Mark LT,508000,Female,Electric,Automatic,12,4
+10-03-2021,Mazda,626,1329098,Male,CNC,Manual,16,4
+24-05-2022,Dodge,D150 Club,4974383,Male,Hybrid,CVT,19,4
+16-09-2023,Audi,Q7,1929824,Male,Electric,DCT,10,4.5
+05-04-2020,Dodge,Caravan,3653080,Female,Petrol,Automatic,14,4
+10-12-2021,Toyota,Paseo,4312730,Female,Diesel,Automatic,14,4
+23-12-2021,Toyota,Tacoma,2540299,Male,Electric,Manual,12,4
+26-09-2023,Jaguar,XK Series,4075137,Male,Petrol,DCT,17,4.5
+09-11-2024,Infiniti,QX,3721942,Female,Electric,DCT,18,4
+20-01-2023,Chrysler,Sebring,1091011,Female,Hybrid,CVT,15,4
+01-07-2022,Volkswagen,Jetta,2267358,Male,Electric,Automatic,16,4
+14-12-2024,Volkswagen,GTI,4476376,Male,Electric,CVT,18,4
+17-11-2021,Acura,TL,3332781,Male,Diesel,DCT,8,4
+19-03-2020,BMW,530,1886796,Male,Petrol,CVT,14,4.5
+29-06-2024,Benz,G-Class,923623,Male,Petrol,Manual,20,4.5
+12-03-2022,Toyota,Sequoia,1499399,Female,Petrol,Automatic,15,4
+02-08-2020,Volkswagen,Phaeton,3435592,Female,Hybrid,Manual,18,4
+12-01-2022,Ford,F350,3075102,Female,Diesel,CVT,19,4
+30-08-2022,Dodge,Omni,1619711,Male,CNC,Automatic,17,4
+14-08-2021,Saturn,S-Series,3373014,Male,Hybrid,Manual,21,4
+27-06-2022,GMC,Vandura 1500,3679200,Female,CNC,Automatic,12,4
+01-04-2024,Spyker,C8,1211047,Female,CNC,DCT,9,4
+01-07-2024,Mazda,Miata MX-5,1579866,Male,Electric,DCT,15,4
+17-03-2023,Ford,Ranger,3936947,Male,Diesel,DCT,13,4
+03-03-2023,Cadillac,Seville,1958409,Male,Diesel,CVT,16,4
+28-03-2022,Pontiac,Sunbird,4341364,Female,Hybrid,Automatic,13,4
+03-10-2022,GMC,Sierra 1500,1380260,Female,Petrol,CVT,21,4
+09-12-2022,Kia,Sedona,2682665,Male,Diesel,DCT,21,4
+08-10-2020,Chevrolet,Beretta,4025487,Male,Diesel,Automatic,16,4.5
+16-02-2024,Volkswagen,Cabriolet,1613762,Female,Petrol,Manual,18,4
+01-04-2021,Benz,SLS-Class,3145871,Female,Electric,Automatic,22,4.5
+08-03-2021,Honda,Accord,1215552,Female,Petrol,DCT,19,4
+18-03-2023,Porsche,911,1781598,Male,Petrol,CVT,21,4.5
+10-12-2024,Kia,Optima,2173727,Male,Electric,CVT,20,4
+29-02-2020,Volkswagen,CC,1979299,Female,Diesel,CVT,18,4
+24-06-2021,Ford,E250,4718522,Male,Petrol,DCT,13,4
+25-09-2022,Lincoln,Continental,300285,Male,Petrol,Manual,21,4
+17-07-2021,Mazda,Mazda6,2112219,Male,Hybrid,CVT,16,4
+03-07-2024,Ford,F-Series Super Duty,1157068,Male,Electric,Automatic,8,4
+09-01-2023,Audi,A3,4134136,Female,Petrol,Manual,11,4.5
+07-10-2024,Chevrolet,Equinox,3689181,Male,CNC,DCT,10,4.5
+17-10-2020,Ford,Econoline E350,4310221,Male,Diesel,CVT,13,4
+08-10-2024,Ford,Expedition,1607511,Female,Electric,Automatic,11,4
+01-01-2021,Pontiac,Bonneville,2679485,Female,Diesel,Automatic,20,4
+11-11-2023,Ford,Econoline E250,3305674,Male,Electric,CVT,16,4
+06-03-2023,BMW,3 Series,1004328,Female,Hybrid,Automatic,18,4.5
+05-05-2024,Ford,E250,3832341,Male,Hybrid,CVT,16,4
+12-12-2023,Buick,Rainier,4361707,Female,Hybrid,Automatic,20,4
+30-06-2024,Volkswagen,Eurovan,1087667,Female,Petrol,CVT,15,4
+30-06-2022,Geo,Prizm,4441043,Male,CNC,Automatic,18,4
+10-07-2024,Lexus,GS,4794396,Female,Petrol,Automatic,22,4
+19-10-2023,Ford,Taurus,3551507,Female,CNC,CVT,17,4
+25-05-2022,Mazda,626,1631703,Male,CNC,DCT,10,4
+16-01-2021,Mitsubishi,RVR,1292073,Female,Petrol,Automatic,10,4.5
+22-07-2024,Honda,Odyssey,4271480,Male,Diesel,Automatic,21,4
+25-06-2022,Mitsubishi,Galant,2868325,Male,Petrol,Manual,14,4.5
+14-07-2021,Mitsubishi,Montero Sport,284099,Male,Diesel,Automatic,18,4.5
+14-12-2021,Infiniti,G37,2281274,Female,Petrol,DCT,17,4
+01-03-2022,Benz,Sprinter,4711346,Female,Diesel,Automatic,8,4.5
+14-04-2021,Cadillac,Seville,3377984,Female,Petrol,DCT,11,4
+22-07-2021,Lotus,Evora,1196287,Male,Petrol,Manual,20,4
+01-03-2023,Suzuki,Cultus,1860337,Female,Hybrid,Manual,22,4
+07-12-2022,Hyundai,Tucson,2468408,Female,CNC,DCT,9,4
+13-10-2024,Cadillac,STS,3973317,Male,Hybrid,DCT,14,4
+27-02-2024,Cadillac,Seville,4730426,Female,Hybrid,Manual,17,4
+18-09-2023,Chevrolet,Venture,389034,Female,Electric,DCT,17,4.5
+09-07-2024,Chrysler,Sebring,3727643,Male,Electric,Automatic,16,4
+19-08-2020,Benz,SLK-Class,2556574,Male,Diesel,Automatic,18,4.5
+11-12-2024,Kia,Rio,1437745,Female,CNC,DCT,11,4
+02-05-2024,Ford,Econoline E150,3507664,Female,CNC,CVT,8,4
+01-08-2024,Honda,del Sol,4726285,Male,Hybrid,Manual,13,4
+30-05-2020,Ford,Ranger,4069388,Male,Electric,DCT,17,4
+24-06-2022,Buick,LeSabre,3385309,Female,Hybrid,Manual,11,4
+19-02-2020,Dodge,Ram 3500,4366951,Female,Electric,DCT,20,4
+30-04-2020,Chevrolet,Cobalt,2047472,Male,Hybrid,CVT,21,4.5
+12-11-2024,Chevrolet,Silverado 1500,2407357,Male,Diesel,DCT,11,4.5
+06-09-2020,Hummer,H3T,2401178,Female,CNC,Manual,8,4.5
+06-09-2024,Ford,Explorer,3777801,Female,CNC,DCT,8,4
+08-01-2021,GMC,Yukon XL 2500,2307142,Female,Diesel,CVT,21,4
+17-11-2020,Toyota,Tundra,3088129,Male,Petrol,CVT,19,4
+14-08-2020,BMW,M,1511102,Male,Diesel,CVT,19,4.5
+25-07-2022,Mazda,Mazda6,2894890,Male,Electric,CVT,17,4
+04-04-2021,Land Rover,Range Rover,3100455,Male,CNC,CVT,9,4.5
+27-05-2021,Mazda,B2600,3616704,Female,Hybrid,DCT,19,4
+03-03-2023,Subaru,Justy,3768589,Male,Electric,Manual,11,4.5
+10-08-2020,Chevrolet,Corvette,2209391,Male,Hybrid,Automatic,14,4.5
+16-12-2024,Oldsmobile,Bravada,1845988,Male,Electric,Automatic,15,4
+25-01-2022,Lincoln,Navigator,2244566,Male,Petrol,Automatic,10,4
+27-09-2024,Volvo,S60,3701151,Male,CNC,CVT,14,4.5
+19-08-2021,Ford,Mustang,1301925,Male,Electric,CVT,9,4
+04-02-2024,Lexus,ES,1951841,Female,Electric,CVT,14,4
+09-08-2021,Saturn,Outlook,4839789,Female,Electric,Automatic,8,4
+01-01-2023,Honda,Pilot,2500570,Male,Diesel,Automatic,15,4
+29-04-2024,Lamborghini,Gallardo,4863071,Female,Diesel,Manual,19,4.5
+10-06-2020,Ford,Aerostar,558354,Male,Diesel,Automatic,18,4
+27-08-2020,Chevrolet,Monte Carlo,3557358,Male,Hybrid,DCT,12,4.5
+03-11-2021,Spyker,C8,3268059,Female,Petrol,DCT,15,4
+23-10-2021,Maserati,Quattroporte,2439129,Male,CNC,CVT,16,4
+14-06-2020,Suzuki,SJ,3826722,Male,Hybrid,DCT,19,4
+16-02-2021,Buick,Riviera,536792,Female,Petrol,Automatic,13,4
+26-10-2020,Benz,R-Class,1204504,Female,Electric,Manual,15,4.5
+28-07-2024,Ford,Escort,564465,Male,CNC,Automatic,10,4
+09-08-2022,Benz,G-Class,3216377,Female,Diesel,Automatic,19,4.5
+27-07-2023,Benz,600SEL,3749785,Female,Diesel,Manual,14,4.5
+05-11-2020,Mitsubishi,GTO,4518031,Female,CNC,Automatic,11,4.5
+13-07-2024,Jaguar,XJ,2672612,Male,CNC,DCT,20,4.5
+11-03-2020,Cadillac,DeVille,1930999,Male,Hybrid,Manual,17,4
+18-09-2020,Panoz,Esperante,4331118,Male,CNC,Automatic,8,4
+25-05-2020,Porsche,Cayman,738676,Female,Electric,DCT,17,4.5
+17-06-2021,Volvo,S40,570502,Female,CNC,Manual,14,4.5
+07-10-2024,Mitsubishi,Endeavor,1677066,Female,CNC,DCT,15,4.5
+13-06-2023,Buick,Century,3872372,Male,Electric,Manual,15,4
+23-02-2021,GMC,Rally Wagon G3500,4680878,Female,Hybrid,CVT,17,4
+17-07-2022,Maybach,62,3930856,Female,CNC,DCT,9,4
+06-02-2021,Volvo,XC90,594679,Male,Hybrid,Automatic,16,4.5
+02-10-2021,Lexus,RX,1385794,Female,Hybrid,Automatic,12,4
+16-01-2024,Mitsubishi,Eclipse,1683355,Male,Diesel,Automatic,20,4.5
+28-10-2020,Volkswagen,Golf,1086992,Female,Petrol,Automatic,14,4
+24-05-2023,Chevrolet,Corvette,1700176,Female,Electric,Automatic,9,4.5
+07-03-2020,Toyota,Land Cruiser,1600882,Female,Petrol,Automatic,19,4
+05-04-2020,Ram,3500,3914419,Female,Petrol,Automatic,12,4
+03-01-2024,Aston Martin,Vantage,2934228,Female,Electric,CVT,11,4.5
+07-08-2023,Cadillac,Seville,4279579,Female,Petrol,CVT,15,4
+31-12-2020,Mazda,626,2092131,Male,Diesel,CVT,21,4
+30-09-2020,Volkswagen,Golf III,1805289,Male,CNC,Automatic,10,4
+08-04-2020,Audi,100,418251,Male,Petrol,Manual,12,4.5
+23-11-2023,Toyota,T100,3322594,Male,Petrol,Automatic,17,4
+12-06-2020,Chevrolet,Tahoe,962086,Female,Petrol,Automatic,12,4.5
+13-08-2023,Hummer,H1,4824320,Female,Petrol,Manual,8,4.5
+11-01-2023,Mitsubishi,Outlander,3164873,Female,Electric,Manual,9,4.5
+23-11-2023,Bentley,Continental Flying Spur,2776799,Female,Diesel,Automatic,9,4.5
+06-02-2024,Ford,LTD Crown Victoria,2626387,Male,CNC,Automatic,14,4
+21-11-2023,BMW,M3,4545955,Male,Petrol,CVT,20,4.5
+21-01-2024,Volkswagen,rio,4663260,Female,CNC,DCT,17,4
+01-06-2021,BMW,X5 M,581914,Female,Diesel,Automatic,9,4.5
+19-01-2024,Toyota,Prius,3970854,Male,Diesel,DCT,17,4
+23-09-2023,Chevrolet,Corvette,1028034,Female,Petrol,Manual,15,4.5
+15-10-2024,Buick,LeSabre,2231636,Male,Diesel,Automatic,20,4
+02-01-2020,GMC,Sonoma,2612276,Male,Diesel,Manual,12,4
+01-01-2025,Chevrolet,K5 Blazer,1906543,Male,Hybrid,DCT,12,4.5
+04-06-2022,Acura,RL,1819416,Male,Electric,CVT,12,4
+14-05-2022,Lexus,IS F,3263759,Male,Petrol,Manual,13,4
+15-06-2021,GMC,Sierra 2500,3109493,Female,Hybrid,Automatic,14,4
+06-07-2022,Mazda,Miata MX-5,4560909,Male,CNC,DCT,17,4
+09-09-2021,Lincoln,MKX,368273,Female,Petrol,Manual,18,4
+24-07-2022,Volkswagen,CC,1009452,Female,Hybrid,CVT,15,4
+06-02-2024,Saab,09-May,841057,Male,CNC,Manual,22,4
+14-03-2023,Oldsmobile,Ciera,293986,Male,Diesel,Manual,9,4
+16-08-2021,Pontiac,Firefly,4931031,Female,CNC,CVT,16,4
+10-01-2022,Acura,TL,2588512,Female,Electric,Manual,20,4
+28-01-2021,Saturn,Outlook,2739815,Male,Petrol,Automatic,14,4
+21-05-2023,Dodge,Ram 1500 Club,2640244,Male,Electric,DCT,22,4
+15-04-2024,Saab,09-May,4418693,Male,Petrol,Manual,12,4
+28-12-2021,Saab,900,1212078,Male,Hybrid,Manual,9,4
+07-09-2024,Isuzu,Ascender,469527,Female,CNC,Automatic,22,4
+26-03-2024,Toyota,Venza,2089901,Male,Petrol,DCT,8,4
+21-01-2024,Chevrolet,Silverado Hybrid,3262627,Male,Hybrid,DCT,9,4.5
+06-06-2020,Suzuki,Swift,4590942,Female,Hybrid,Automatic,22,4
+02-04-2020,Toyota,Camry,4878780,Female,Hybrid,DCT,14,4
+23-06-2023,Dodge,D250 Club,1321654,Male,Electric,Manual,11,4
+24-11-2023,GMC,3500 Club Coupe,3007111,Male,Electric,Manual,9,4
+05-12-2023,Oldsmobile,Ciera,4873881,Female,Electric,CVT,19,4
+16-07-2022,Mercury,Grand Marquis,2777683,Female,Electric,CVT,11,4
+10-04-2024,Benz,SL-Class,1072218,Male,Petrol,Automatic,14,4.5
+13-04-2021,Toyota,T100,4833630,Male,Hybrid,Manual,12,4
+29-05-2020,Pontiac,LeMans,4873467,Female,Hybrid,DCT,12,4
+27-02-2021,Chevrolet,Cobalt,4546347,Male,Diesel,DCT,8,4.5
+02-01-2022,Volkswagen,Jetta,3746670,Female,Electric,CVT,13,4
+25-02-2021,Volkswagen,New Beetle,4300876,Female,Electric,Manual,19,4
+07-08-2024,Scion,tC,3028135,Male,Petrol,Manual,16,4
+13-07-2022,Toyota,Tercel,4525964,Male,Diesel,Manual,9,4
+21-07-2020,Infiniti,G37,3068513,Female,Electric,CVT,9,4
+27-10-2022,Lotus,Esprit,1970310,Male,Petrol,Automatic,16,4
+27-05-2022,Toyota,Prius Plug-in Hybrid,365783,Female,Electric,Manual,19,4
+26-01-2025,Kia,Sportage,1526672,Female,Diesel,DCT,18,4
+29-09-2024,Dodge,Viper,4078402,Female,Electric,Manual,12,4
+06-11-2020,Kia,Sportage,3205303,Male,Petrol,Automatic,14,4
+03-01-2024,Volvo,V50,3896106,Male,Electric,CVT,16,4.5
+27-12-2021,Chevrolet,Beretta,1104096,Female,Electric,DCT,21,4.5
+01-09-2020,Honda,Element,3416539,Female,Hybrid,DCT,15,4
+13-02-2024,Toyota,Land Cruiser,4934955,Male,Diesel,Automatic,21,4
+04-06-2024,Nissan,Rogue,1134294,Male,Diesel,Manual,21,4.5
+29-05-2020,Dodge,Ram 1500,3999321,Male,Electric,Manual,19,4
+31-10-2024,Mitsubishi,Expo,3410467,Male,CNC,Automatic,19,4.5
+02-05-2024,Porsche,Boxster,1644311,Female,Electric,CVT,17,4.5
+29-06-2021,Benz,C-Class,788399,Female,CNC,Manual,12,4.5
+03-11-2021,Ford,Aerostar,4285083,Female,Petrol,Automatic,10,4
+17-04-2024,Volvo,XC90,4990588,Female,CNC,DCT,16,4.5
+15-03-2022,Dodge,Grand Caravan,1764357,Female,Diesel,CVT,21,4
+30-06-2022,Chevrolet,1500,2164902,Male,Diesel,CVT,10,4.5
+17-11-2021,GMC,Savana 1500,1917742,Male,Hybrid,Manual,11,4
+16-06-2021,Ford,Taurus,1661575,Female,Petrol,Automatic,9,4
+14-04-2020,Mitsubishi,Eclipse,4180261,Female,Petrol,CVT,12,4.5
+18-01-2025,Chevrolet,Camaro,3850278,Male,Electric,DCT,18,4.5
+10-04-2022,GMC,Savana 1500,3518087,Female,Diesel,Automatic,15,4
+06-06-2020,Chrysler,LHS,2192926,Male,Petrol,Automatic,14,4
+13-06-2024,Jaguar,XF,364588,Male,Hybrid,Manual,17,4.5
+15-09-2021,Chevrolet,Tahoe,3914004,Female,Electric,CVT,12,4.5
+25-11-2022,Mitsubishi,Galant,1967431,Female,Hybrid,Automatic,17,4.5
+16-04-2020,Saab,09-May,3795726,Female,Hybrid,DCT,10,4
+09-04-2021,Mitsubishi,Outlander,987674,Male,Diesel,CVT,22,4.5
+11-08-2024,Dodge,Avenger,3523322,Female,Electric,Manual,14,4
+25-06-2022,Acura,NSX,2213235,Female,CNC,Manual,16,4
+04-12-2020,Benz,G-Class,2568338,Male,Diesel,Manual,15,4.5
+28-02-2022,Oldsmobile,Silhouette,811554,Female,CNC,Manual,10,4
+02-08-2020,Subaru,BRZ,2968167,Male,Hybrid,CVT,11,4.5
+08-01-2020,Chevrolet,Corvette,4852806,Male,Diesel,CVT,9,4.5
+10-06-2024,Benz,CLS-Class,1894555,Female,CNC,CVT,11,4.5
+08-06-2024,Ferrari,F430,3577798,Female,Diesel,Automatic,14,4.5
+01-04-2021,Chevrolet,Camaro,3973775,Male,CNC,DCT,22,4.5
+18-12-2022,Lexus,GX,3023368,Male,Petrol,CVT,20,4
+20-08-2022,Chevrolet,Lumina,1481414,Female,Electric,DCT,13,4.5
+03-05-2022,Benz,SLK-Class,1608948,Male,Petrol,CVT,16,4.5
+17-12-2024,Benz,SLR McLaren,2023509,Male,Petrol,Manual,19,4.5
+27-04-2020,Ford,F-Series Super Duty,1693857,Male,Hybrid,CVT,14,4
+06-06-2022,Ford,Crown Victoria,1328048,Female,Petrol,DCT,16,4
+16-11-2021,Chevrolet,Sportvan G30,1922247,Male,Diesel,DCT,21,4.5
+01-12-2021,Ford,Mustang,1248588,Male,Petrol,Manual,16,4
+01-08-2022,Plymouth,Breeze,2641906,Male,Petrol,Automatic,15,4
+10-01-2025,Kia,Carens,1397842,Male,Electric,Automatic,13,4
+04-08-2020,Lincoln,MKZ,3268375,Male,CNC,CVT,10,4
+26-12-2023,Land Rover,Range Rover,435847,Male,Electric,Manual,17,4.5
+19-07-2022,Ford,Focus,1884358,Male,CNC,Manual,15,4
+03-02-2020,GMC,3500,3500790,Male,Diesel,DCT,18,4
+13-09-2021,Chevrolet,Malibu,1018880,Female,Hybrid,Automatic,17,4.5
+30-10-2021,BMW,M3,4491700,Female,Petrol,Manual,17,4.5
+24-12-2023,Ram,C/V,1035624,Female,Diesel,Manual,15,4
+07-06-2023,Benz,500E,459214,Female,Electric,DCT,18,4.5
+03-03-2024,Mitsubishi,Montero,2468571,Male,Electric,DCT,18,4.5
+07-02-2020,Scion,tC,4254837,Male,Petrol,CVT,13,4
+03-07-2024,Pontiac,Grand Prix,3060803,Male,Hybrid,DCT,19,4
+15-04-2024,Ford,E350,4230864,Male,Electric,DCT,16,4
+11-09-2021,Toyota,Paseo,4275031,Female,Diesel,Manual,18,4
+05-08-2024,Dodge,Challenger,1960325,Female,Hybrid,Manual,15,4
+06-08-2022,Buick,Regal,4017069,Male,Petrol,DCT,13,4
+10-08-2021,Pontiac,Bonneville,3918612,Female,Electric,Manual,16,4
+04-07-2020,Isuzu,Trooper,310934,Male,Electric,DCT,15,4
+25-01-2023,Honda,Pilot,3175029,Female,Petrol,Manual,18,4
+28-07-2023,Ford,F350,3174021,Female,Electric,Manual,12,4
+11-01-2022,Audi,V8,2000853,Female,CNC,Automatic,9,4.5
+06-01-2020,GMC,2500 Club Coupe,4850098,Male,Diesel,DCT,14,4
+24-11-2024,Kia,Sedona,4702660,Male,CNC,Automatic,10,4
+02-08-2023,Honda,Insight,3642620,Male,Diesel,Manual,22,4
+26-02-2020,Volvo,XC70,4247734,Male,Diesel,Manual,14,4.5
+12-04-2021,Chevrolet,Malibu,1738947,Male,Hybrid,CVT,8,4.5
+11-03-2020,Chrysler,Cirrus,3426284,Male,Diesel,DCT,12,4
+31-07-2024,Cadillac,XLR-V,3129629,Male,CNC,Automatic,22,4
+29-05-2020,Ford,Windstar,2708906,Male,CNC,Manual,13,4
+14-01-2023,Porsche,Cayman,3966346,Male,Hybrid,DCT,19,4.5
+08-09-2022,Ford,Mustang,1697632,Male,Petrol,Manual,18,4
+04-03-2024,Ford,F-Series,3381449,Male,Diesel,Manual,9,4
+10-05-2024,Chrysler,300C,4155392,Female,Electric,CVT,11,4
+28-08-2024,Kia,Rio,3680346,Female,Diesel,Automatic,19,4
+23-06-2022,Mazda,Mazda5,3584027,Male,CNC,DCT,20,4
+29-05-2020,Toyota,Avalon,2410134,Male,Diesel,DCT,14,4
+12-01-2025,Chevrolet,Tracker,1555807,Male,Petrol,Automatic,8,4.5
+17-08-2022,Lexus,CT,1769441,Female,CNC,Manual,11,4
+29-04-2021,Mitsubishi,Eclipse,516150,Female,CNC,Automatic,11,4.5
+11-10-2024,Dodge,Ram Van 1500,2305306,Male,Petrol,CVT,10,4
+16-11-2023,Buick,Century,969707,Male,Petrol,CVT,22,4
+01-07-2020,Chrysler,Voyager,1825628,Female,Diesel,Manual,13,4
+07-12-2023,Mercury,Mystique,2217584,Female,Electric,Automatic,15,4
+03-02-2021,GMC,Sierra 2500,3776217,Male,Hybrid,CVT,17,4
+12-07-2022,Chevrolet,Cruze,4765456,Male,Diesel,Automatic,13,4.5
+20-03-2020,GMC,2500 Club Coupe,1500387,Male,Electric,CVT,10,4
+04-01-2023,Volvo,960,1736429,Male,CNC,Manual,8,4.5
+04-10-2023,Volkswagen,Cabriolet,4971705,Female,CNC,Manual,19,4
+06-03-2023,Ford,F-Series,725410,Female,Hybrid,DCT,18,4
+16-10-2020,Ford,Thunderbird,1891552,Female,Hybrid,Manual,10,4
+13-08-2022,Ford,Tempo,1995212,Female,CNC,Manual,22,4
+26-03-2020,Toyota,Cressida,2752098,Female,Diesel,Manual,21,4
+22-06-2023,Toyota,Camry,3836818,Female,Petrol,Manual,12,4
+09-04-2020,Honda,Accord,1586630,Male,Petrol,Automatic,16,4
+08-06-2021,Ford,Windstar,385831,Female,Petrol,DCT,15,4
+15-12-2024,Dodge,Caravan,4739881,Female,Petrol,Manual,19,4
+07-06-2024,Infiniti,FX,3752532,Male,Hybrid,Manual,19,4
+15-03-2024,Mitsubishi,Sigma,2287239,Female,CNC,CVT,15,4.5
+05-01-2021,GMC,Vandura G3500,4576893,Female,Electric,Manual,10,4
+21-10-2024,BMW,5 Series,2595896,Female,Diesel,DCT,9,4.5
+08-05-2020,Jaguar,XK Series,1298459,Male,CNC,Manual,8,4.5
+09-10-2021,Ford,Escort,4538786,Male,Diesel,CVT,12,4
+03-02-2021,Lincoln,Zephyr,2694789,Male,Electric,Manual,22,4
+18-12-2021,Jeep,Grand Cherokee,687319,Male,CNC,Manual,9,4.5
+22-01-2021,Mazda,MPV,1029386,Male,CNC,Manual,22,4
+20-01-2020,Pontiac,Sunbird,3373070,Female,Hybrid,DCT,9,4
+27-05-2022,Volkswagen,GTI,1518990,Female,Electric,CVT,19,4
+10-07-2022,Audi,S4,3124119,Female,Electric,Automatic,16,4.5
+01-10-2020,Pontiac,1000,1918703,Male,CNC,Manual,12,4
+07-08-2020,Ford,Mustang,1400562,Female,CNC,DCT,21,4
+29-05-2020,Rolls-Royce,Ghost,1581713,Female,Diesel,Manual,22,4.5
+07-01-2024,Mercury,Cougar,4619788,Female,Diesel,CVT,20,4
+20-12-2023,Plymouth,Laser,4368772,Female,Diesel,DCT,10,4
+03-07-2021,Volkswagen,New Beetle,4091675,Female,Hybrid,Manual,18,4
+05-06-2022,Buick,Enclave,1954923,Male,Diesel,Manual,11,4
+08-08-2020,Infiniti,Q,383085,Male,Petrol,DCT,21,4
+03-03-2020,Oldsmobile,Aurora,4482390,Female,CNC,CVT,18,4
+28-09-2020,Chevrolet,G-Series G30,340588,Male,Electric,DCT,15,4.5
+16-02-2022,Honda,del Sol,3761932,Female,CNC,Automatic,10,4
+05-05-2021,Chevrolet,Monte Carlo,2217754,Male,Hybrid,Manual,21,4.5
+10-09-2023,Ferrari,430 Scuderia,1897452,Female,Hybrid,Automatic,17,4.5
+26-03-2023,Hyundai,Sonata,3347182,Male,Diesel,Manual,14,4
+25-11-2020,Audi,80,3305897,Female,Diesel,Automatic,8,4.5
+02-02-2020,Nissan,350Z Roadster,3501801,Female,CNC,Automatic,19,4.5
+15-06-2020,Honda,Accord,4611064,Female,Electric,Manual,15,4
+27-03-2022,Subaru,Legacy,3005703,Male,Hybrid,Automatic,15,4.5
+27-02-2023,Porsche,Boxster,1024050,Male,Electric,Manual,10,4.5
+14-03-2021,Ford,Club Wagon,3942173,Male,Hybrid,CVT,16,4
+27-09-2024,Cadillac,Eldorado,3962658,Male,Petrol,Manual,22,4
+14-06-2021,Dodge,Durango,1970635,Female,Hybrid,Automatic,18,4
+13-03-2020,Dodge,Grand Caravan,1328516,Male,Diesel,DCT,12,4
+13-07-2022,Chevrolet,Cavalier,1785902,Female,Diesel,CVT,14,4.5
+12-11-2020,Mercury,Villager,2699759,Female,CNC,CVT,14,4
+05-03-2021,Volvo,V50,3565574,Male,Diesel,Automatic,8,4.5
+08-02-2021,Chevrolet,Camaro,4836385,Female,Petrol,CVT,15,4.5
+02-03-2024,Chevrolet,Blazer,2229191,Female,Petrol,Automatic,19,4.5
+15-09-2023,GMC,Sonoma,1584699,Male,Hybrid,CVT,13,4
+23-10-2023,BMW,Z4 M,497665,Female,Petrol,Manual,8,4.5
+15-08-2021,Volkswagen,Golf,2227722,Female,CNC,Automatic,9,4
+19-12-2021,Chevrolet,Suburban 1500,867092,Male,CNC,Automatic,21,4.5
+14-10-2022,GMC,3500 Club Coupe,1377470,Female,Hybrid,CVT,10,4
+20-03-2023,Ford,Expedition,3410297,Female,Diesel,Manual,12,4
+20-05-2022,Lamborghini,Diablo,4981656,Female,Hybrid,DCT,8,4.5
+15-07-2023,Buick,Electra,1796315,Female,Petrol,Automatic,17,4
+20-07-2024,Volvo,850,805263,Male,Petrol,DCT,17,4.5
+02-04-2023,Toyota,Camry,2491964,Male,Hybrid,Automatic,19,4
+15-03-2023,Hyundai,Santa Fe,4186616,Female,Petrol,CVT,9,4
+29-10-2021,Saab,09-May,4645338,Male,Petrol,DCT,21,4
+07-02-2021,Nissan,NX,2132706,Male,CNC,Automatic,14,4.5
+27-03-2020,Pontiac,Safari,2845544,Female,CNC,Manual,22,4
+29-04-2021,Buick,Regal,959881,Female,Electric,CVT,12,4
+19-12-2023,Infiniti,Q,2610238,Female,Petrol,CVT,21,4
+11-01-2022,Mercury,Sable,3536108,Male,Diesel,Automatic,10,4
+18-12-2021,Nissan,370Z,732609,Male,Electric,CVT,21,4.5
+04-07-2022,BMW,5 Series,4176624,Male,CNC,CVT,18,4.5
+23-06-2021,Toyota,Camry Hybrid,3242405,Female,Hybrid,Manual,19,4
+01-10-2020,Dodge,Ram Wagon B150,454921,Female,Petrol,Automatic,22,4
+24-11-2022,Subaru,Alcyone SVX,3854180,Female,Petrol,Automatic,13,4.5
+13-07-2022,Nissan,Altima,1627678,Male,Electric,CVT,8,4.5
+23-09-2020,Toyota,Supra,4093902,Male,Diesel,Automatic,13,4
+06-01-2020,Ford,LTD,585247,Male,Petrol,DCT,16,4
+23-04-2022,Mazda,MPV,2645958,Female,Hybrid,Automatic,15,4
